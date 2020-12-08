@@ -1,4 +1,4 @@
-I'm Mayyan!
+Hi there 🖐 I'm Mayyan!
 
 
 - 🔭 I’m currently working on ...building a strong foundation of Frontend Dev. coding basics
